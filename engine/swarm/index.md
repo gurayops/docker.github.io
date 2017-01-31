@@ -90,3 +90,7 @@ Explore swarm mode CLI commands
 * [service scale](../reference/commandline/service_scale.md)
 * [service ps](../reference/commandline/service_ps.md)
 * [service update](../reference/commandline/service_update.md)
+* [stack deploy](../reference/commandline/stack_deploy.md) (1.13 or later)
+* [stack rm](../reference/commandline/stack_rm.md) (1.13 or later)
+* [stack ls](../reference/commandline/stack_ls.md) (1.13 or later)
+* [stack ps](../reference/commandline/stack_ps.md) (1.13 or later)
