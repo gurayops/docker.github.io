@@ -4,6 +4,7 @@ keywords: Search, Docker, documentation, manual, guide, reference, api
 noratings: true
 notoc: true
 title: Search results
+skip-right-nav: true
 ---
 
 <style type='text/css'>
